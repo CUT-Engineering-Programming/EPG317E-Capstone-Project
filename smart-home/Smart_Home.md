@@ -28,6 +28,8 @@ Upon completion of this project, students will be able to:
 
 ## 2. Your Kit — Keyestudio Smart Home Kit (KS0085)
 
+<img src="https://m.media-amazon.com/images/I/71W5DF0wVyL._AC_UF1000,1000_QL80_.jpg" alt="Keyestudio Smart Home Kit (KS0085)" width="400"/>
+
 **Kit Documentation:** [https://wiki.keyestudio.com/KS0085_Keyestudio_Smart_Home_Kit_for_Arduino](https://wiki.keyestudio.com/KS0085_Keyestudio_Smart_Home_Kit_for_Arduino)
 
 > **Note:** The original Arduino PLUS control board included in this kit has been replaced with an **ESP32** development board to enable Wi-Fi and MQTT connectivity. You will need to adapt pin assignments accordingly.
