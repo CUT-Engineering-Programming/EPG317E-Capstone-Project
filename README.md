@@ -39,9 +39,9 @@ There are **three capstone projects**. Each team is assigned exactly one project
 
 Your team's assigned project file contains the full specification including kit components, sensor lists, control actions, MQTT topic structure, and project-specific notes. See:
 
-- [Smart_Farm.md](Smart_Farm.md) — Project A
-- [Smart_Home.md](Smart_Home.md) — Project B
-- [Smart_Solar_Tracker.md](Smart_Solar_Tracker.md) — Project C
+- [Smart_Farm.md](smart-farm/Smart_Farm.md) — Project A
+- [Smart_Home.md](smart-home/Smart_Home.md) — Project B
+- [Smart_Solar_Tracker.md](smart-solar-tracker/Smart_Solar_Tracker.md) — Project C
 
 
 
