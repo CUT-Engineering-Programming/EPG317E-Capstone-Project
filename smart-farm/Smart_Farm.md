@@ -29,6 +29,8 @@ Upon completion of this project, students will be able to:
 
 ## 2. Your Kit — Keyestudio ESP32 IoT Smart Farm Kit (KS0567)
 
+<img src="https://m.media-amazon.com/images/I/71+xBUgi8dL._AC_UF1000,1000_QL80_.jpg" alt="Keyestudio ESP32 IoT Smart Farm Kit (KS0567)" width="400"/>
+
 **Kit Documentation:** [https://wiki.keyestudio.com/KS0567_Keyestudio_ESP32_IoT_Control_Smart_Farm_Starter_Kit_for_Arduino_Scratch_3.0_Graphical_Programming](https://wiki.keyestudio.com/KS0567_Keyestudio_ESP32_IoT_Control_Smart_Farm_Starter_Kit_for_Arduino_Scratch_3.0_Graphical_Programming)
 
 ### 2.1 Key Components
