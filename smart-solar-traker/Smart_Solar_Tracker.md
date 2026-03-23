@@ -29,6 +29,8 @@ Upon completion of this project, students will be able to:
 
 ## 2. Your Kit — Keyestudio Solar Tracking Kit (KS0530)
 
+<img src="https://ueeshop.ly200-cdn.com/u_file/UPAH/UPAH808/2110/photo/3bec3f8035.jpg" alt="Keyestudio Solar Tracking Kit (KS0530)" width="400"/>
+
 **Kit Documentation:** [https://docs.keyestudio.com/projects/KS0530/en/latest/KS0530.html](https://docs.keyestudio.com/projects/KS0530/en/latest/KS0530.html)
 
 > **Note:** The original Arduino UNO board included in this kit has been replaced with an **ESP32** development board to enable Wi-Fi and MQTT connectivity.
